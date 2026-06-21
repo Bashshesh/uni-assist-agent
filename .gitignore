@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+
+# Env
+.env
+backend/.env
+*.env
+
+# Next.js
+.next/
+out/
+
+# Node
+node_modules/
